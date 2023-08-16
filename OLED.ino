@@ -1,4 +1,4 @@
-/******************************************************************************/
+/*
 Arduino LCD 时钟项目
 
 硬件：
@@ -13,7 +13,7 @@ https://www.23bei.com/tool/216.html
 https://item.taobao.com/item.htm?spm=a1z09.2.0.0.198d2e8dAZ6yzQ&id=694695256570&_u=f2f8j95p2146
 3. LCD 12864显示屏
 https://item.taobao.com/item.htm?spm=a1z09.2.0.0.198d2e8dAZ6yzQ&id=40809409804&_u=f2f8j95p2c8f
-/******************************************************************************/
+*/
 #include "oledfont.h"
 #include "Wire.h"
 #include "RtcDS1307.h"  //DS1307时钟模块的库
